@@ -15,1616 +15,1616 @@ class CountrySeeder extends Seeder
                     'en' => 'Afghanistan',
                     'ar' => 'أفغانستان',
                 ],
+                'code' => '+93',
                 'iso' => 'AF',
-                'phone_code' => '+93',
             ],
             [
                 'name' => [
                     'en' => 'Albania',
                     'ar' => 'ألبانيا',
                 ],
+                'code' => '+355',
                 'iso' => 'AL',
-                'phone_code' => '+355',
             ],
             [
                 'name' => [
                     'en' => 'Algeria',
                     'ar' => 'الجزائر',
                 ],
+                'code' => '+213',
                 'iso' => 'DZ',
-                'phone_code' => '+213',
             ],
             [
                 'name' => [
                     'en' => 'Andorra',
                     'ar' => 'أندورا',
                 ],
+                'code' => '+376',
                 'iso' => 'AD',
-                'phone_code' => '+376',
             ],
             [
                 'name' => [
                     'en' => 'Angola',
                     'ar' => 'أنغولا',
                 ],
+                'code' => '+244',
                 'iso' => 'AO',
-                'phone_code' => '+244',
             ],
             [
                 'name' => [
                     'en' => 'Antigua and Barbuda',
                     'ar' => 'أنتيغوا وبربودا',
                 ],
+                'code' => '+1-268',
                 'iso' => 'AG',
-                'phone_code' => '+1-268',
             ],
             [
                 'name' => [
                     'en' => 'Argentina',
                     'ar' => 'الأرجنتين',
                 ],
+                'code' => '+54',
                 'iso' => 'AR',
-                'phone_code' => '+54',
             ],
             [
                 'name' => [
                     'en' => 'Armenia',
                     'ar' => 'أرمينيا',
                 ],
+                'code' => '+374',
                 'iso' => 'AM',
-                'phone_code' => '+374',
             ],
             [
                 'name' => [
                     'en' => 'Australia',
                     'ar' => 'أستراليا',
                 ],
+                'code' => '+61',
                 'iso' => 'AU',
-                'phone_code' => '+61',
             ],
             [
                 'name' => [
                     'en' => 'Austria',
                     'ar' => 'النمسا',
                 ],
+                'code' => '+43',
                 'iso' => 'AT',
-                'phone_code' => '+43',
             ],
             [
                 'name' => [
                     'en' => 'Azerbaijan',
                     'ar' => 'أذربيجان',
                 ],
+                'code' => '+994',
                 'iso' => 'AZ',
-                'phone_code' => '+994',
             ],
             [
                 'name' => [
                     'en' => 'Bahamas',
                     'ar' => 'الباهاما',
                 ],
+                'code' => '+1-242',
                 'iso' => 'BS',
-                'phone_code' => '+1-242',
             ],
             [
                 'name' => [
                     'en' => 'Bahrain',
                     'ar' => 'البحرين',
                 ],
+                'code' => '+973',
                 'iso' => 'BH',
-                'phone_code' => '+973',
             ],
             [
                 'name' => [
                     'en' => 'Bangladesh',
                     'ar' => 'بنغلاديش',
                 ],
+                'code' => '+880',
                 'iso' => 'BD',
-                'phone_code' => '+880',
             ],
             [
                 'name' => [
                     'en' => 'Barbados',
                     'ar' => 'بربادوس',
                 ],
+                'code' => '+1-246',
                 'iso' => 'BB',
-                'phone_code' => '+1-246',
             ],
             [
                 'name' => [
                     'en' => 'Belarus',
                     'ar' => 'بيلاروسيا',
                 ],
+                'code' => '+375',
                 'iso' => 'BY',
-                'phone_code' => '+375',
             ],
             [
                 'name' => [
                     'en' => 'Belgium',
                     'ar' => 'بلجيكا',
                 ],
+                'code' => '+32',
                 'iso' => 'BE',
-                'phone_code' => '+32',
             ],
             [
                 'name' => [
                     'en' => 'Belize',
                     'ar' => 'بليز',
                 ],
+                'code' => '+501',
                 'iso' => 'BZ',
-                'phone_code' => '+501',
             ],
             [
                 'name' => [
                     'en' => 'Benin',
                     'ar' => 'بنين',
                 ],
+                'code' => '+229',
                 'iso' => 'BJ',
-                'phone_code' => '+229',
             ],
             [
                 'name' => [
                     'en' => 'Bhutan',
                     'ar' => 'بوتان',
                 ],
+                'code' => '+975',
                 'iso' => 'BT',
-                'phone_code' => '+975',
             ],
             [
                 'name' => [
                     'en' => 'Bolivia',
                     'ar' => 'بوليفيا',
                 ],
+                'code' => '+591',
                 'iso' => 'BO',
-                'phone_code' => '+591',
             ],
             [
                 'name' => [
                     'en' => 'Bosnia and Herzegovina',
                     'ar' => 'البوسنة والهرسك',
                 ],
+                'code' => '+387',
                 'iso' => 'BA',
-                'phone_code' => '+387',
             ],
             [
                 'name' => [
                     'en' => 'Botswana',
                     'ar' => 'بوتسوانا',
                 ],
+                'code' => '+267',
                 'iso' => 'BW',
-                'phone_code' => '+267',
             ],
             [
                 'name' => [
                     'en' => 'Brazil',
                     'ar' => 'البرازيل',
                 ],
+                'code' => '+55',
                 'iso' => 'BR',
-                'phone_code' => '+55',
             ],
             [
                 'name' => [
                     'en' => 'Brunei',
                     'ar' => 'بروناي',
                 ],
+                'code' => '+673',
                 'iso' => 'BN',
-                'phone_code' => '+673',
             ],
             [
                 'name' => [
                     'en' => 'Bulgaria',
                     'ar' => 'بلغاريا',
                 ],
+                'code' => '+359',
                 'iso' => 'BG',
-                'phone_code' => '+359',
             ],
             [
                 'name' => [
                     'en' => 'Burkina Faso',
                     'ar' => 'بوركينا فاسو',
                 ],
+                'code' => '+226',
                 'iso' => 'BF',
-                'phone_code' => '+226',
             ],
             [
                 'name' => [
                     'en' => 'Burundi',
                     'ar' => 'بوروندي',
                 ],
+                'code' => '+257',
                 'iso' => 'BI',
-                'phone_code' => '+257',
             ],
             [
                 'name' => [
                     'en' => 'Cabo Verde',
                     'ar' => 'الرأس الأخضر',
                 ],
+                'code' => '+238',
                 'iso' => 'CV',
-                'phone_code' => '+238',
             ],
             [
                 'name' => [
                     'en' => 'Cambodia',
                     'ar' => 'كمبوديا',
                 ],
+                'code' => '+855',
                 'iso' => 'KH',
-                'phone_code' => '+855',
             ],
             [
                 'name' => [
                     'en' => 'Cameroon',
                     'ar' => 'الكاميرون',
                 ],
+                'code' => '+237',
                 'iso' => 'CM',
-                'phone_code' => '+237',
             ],
             [
                 'name' => [
                     'en' => 'Canada',
                     'ar' => 'كندا',
                 ],
+                'code' => '+1',
                 'iso' => 'CA',
-                'phone_code' => '+1',
             ],
             [
                 'name' => [
                     'en' => 'Central African Republic',
                     'ar' => 'جمهورية أفريقيا الوسطى',
                 ],
+                'code' => '+236',
                 'iso' => 'CF',
-                'phone_code' => '+236',
             ],
             [
                 'name' => [
                     'en' => 'Chad',
                     'ar' => 'تشاد',
                 ],
+                'code' => '+235',
                 'iso' => 'TD',
-                'phone_code' => '+235',
             ],
             [
                 'name' => [
                     'en' => 'Chile',
                     'ar' => 'تشيلي',
                 ],
+                'code' => '+56',
                 'iso' => 'CL',
-                'phone_code' => '+56',
             ],
             [
                 'name' => [
                     'en' => 'China',
                     'ar' => 'الصين',
                 ],
+                'code' => '+86',
                 'iso' => 'CN',
-                'phone_code' => '+86',
             ],
             [
                 'name' => [
                     'en' => 'Colombia',
                     'ar' => 'كولومبيا',
                 ],
+                'code' => '+57',
                 'iso' => 'CO',
-                'phone_code' => '+57',
             ],
             [
                 'name' => [
                     'en' => 'Comoros',
                     'ar' => 'جزر القمر',
                 ],
+                'code' => '+269',
                 'iso' => 'KM',
-                'phone_code' => '+269',
             ],
             [
                 'name' => [
                     'en' => 'Costa Rica',
                     'ar' => 'كوستاريكا',
                 ],
+                'code' => '+506',
                 'iso' => 'CR',
-                'phone_code' => '+506',
             ],
             [
                 'name' => [
                     'en' => 'Croatia',
                     'ar' => 'كرواتيا',
                 ],
+                'code' => '+385',
                 'iso' => 'HR',
-                'phone_code' => '+385',
             ],
             [
                 'name' => [
                     'en' => 'Cuba',
                     'ar' => 'كوبا',
                 ],
+                'code' => '+53',
                 'iso' => 'CU',
-                'phone_code' => '+53',
             ],
             [
                 'name' => [
                     'en' => 'Cyprus',
                     'ar' => 'قبرص',
                 ],
+                'code' => '+357',
                 'iso' => 'CY',
-                'phone_code' => '+357',
             ],
             [
                 'name' => [
                     'en' => 'Czechia',
                     'ar' => 'التشيك',
                 ],
+                'code' => '+420',
                 'iso' => 'CZ',
-                'phone_code' => '+420',
             ],
             [
                 'name' => [
                     'en' => 'Denmark',
                     'ar' => 'الدنمارك',
                 ],
+                'code' => '+45',
                 'iso' => 'DK',
-                'phone_code' => '+45',
             ],
             [
                 'name' => [
                     'en' => 'Djibouti',
                     'ar' => 'جيبوتي',
                 ],
+                'code' => '+253',
                 'iso' => 'DJ',
-                'phone_code' => '+253',
             ],
             [
                 'name' => [
                     'en' => 'Dominica',
                     'ar' => 'دومينيكا',
                 ],
+                'code' => '+1-767',
                 'iso' => 'DM',
-                'phone_code' => '+1-767',
             ],
             [
                 'name' => [
                     'en' => 'Dominican Republic',
                     'ar' => 'جمهورية الدومينيكان',
                 ],
+                'code' => '+1-809',
                 'iso' => 'DO',
-                'phone_code' => '+1-809',
             ],
             [
                 'name' => [
                     'en' => 'Ecuador',
                     'ar' => 'الإكوادور',
                 ],
+                'code' => '+593',
                 'iso' => 'EC',
-                'phone_code' => '+593',
             ],
             [
                 'name' => [
                     'en' => 'Egypt',
                     'ar' => 'مصر',
                 ],
+                'code' => '+20',
                 'iso' => 'EG',
-                'phone_code' => '+20',
             ],
             [
                 'name' => [
                     'en' => 'El Salvador',
                     'ar' => 'السلفادور',
                 ],
+                'code' => '+503',
                 'iso' => 'SV',
-                'phone_code' => '+503',
             ],
             [
                 'name' => [
                     'en' => 'Equatorial Guinea',
                     'ar' => 'غينيا الاستوائية',
                 ],
+                'code' => '+240',
                 'iso' => 'GQ',
-                'phone_code' => '+240',
             ],
             [
                 'name' => [
                     'en' => 'Eritrea',
                     'ar' => 'إريتريا',
                 ],
+                'code' => '+291',
                 'iso' => 'ER',
-                'phone_code' => '+291',
             ],
             [
                 'name' => [
                     'en' => 'Estonia',
                     'ar' => 'إستونيا',
                 ],
+                'code' => '+372',
                 'iso' => 'EE',
-                'phone_code' => '+372',
             ],
             [
                 'name' => [
                     'en' => 'Eswatini',
                     'ar' => 'إسواتيني',
                 ],
+                'code' => '+268',
                 'iso' => 'SZ',
-                'phone_code' => '+268',
             ],
             [
                 'name' => [
                     'en' => 'Ethiopia',
                     'ar' => 'إثيوبيا',
                 ],
+                'code' => '+251',
                 'iso' => 'ET',
-                'phone_code' => '+251',
             ],
             [
                 'name' => [
                     'en' => 'Fiji',
                     'ar' => 'فيجي',
                 ],
+                'code' => '+679',
                 'iso' => 'FJ',
-                'phone_code' => '+679',
             ],
             [
                 'name' => [
                     'en' => 'Finland',
                     'ar' => 'فنلندا',
                 ],
+                'code' => '+358',
                 'iso' => 'FI',
-                'phone_code' => '+358',
             ],
             [
                 'name' => [
                     'en' => 'France',
                     'ar' => 'فرنسا',
                 ],
+                'code' => '+33',
                 'iso' => 'FR',
-                'phone_code' => '+33',
             ],
             [
                 'name' => [
                     'en' => 'Gabon',
                     'ar' => 'الغابون',
                 ],
+                'code' => '+241',
                 'iso' => 'GA',
-                'phone_code' => '+241',
             ],
             [
                 'name' => [
                     'en' => 'Gambia',
                     'ar' => 'غامبيا',
                 ],
+                'code' => '+220',
                 'iso' => 'GM',
-                'phone_code' => '+220',
             ],
             [
                 'name' => [
                     'en' => 'Georgia',
                     'ar' => 'جورجيا',
                 ],
+                'code' => '+995',
                 'iso' => 'GE',
-                'phone_code' => '+995',
             ],
             [
                 'name' => [
                     'en' => 'Germany',
                     'ar' => 'ألمانيا',
                 ],
+                'code' => '+49',
                 'iso' => 'DE',
-                'phone_code' => '+49',
             ],
             [
                 'name' => [
                     'en' => 'Ghana',
                     'ar' => 'غانا',
                 ],
+                'code' => '+233',
                 'iso' => 'GH',
-                'phone_code' => '+233',
             ],
             [
                 'name' => [
                     'en' => 'Greece',
                     'ar' => 'اليونان',
                 ],
+                'code' => '+30',
                 'iso' => 'GR',
-                'phone_code' => '+30',
             ],
             [
                 'name' => [
                     'en' => 'Grenada',
                     'ar' => 'غرينادا',
                 ],
+                'code' => '+1-473',
                 'iso' => 'GD',
-                'phone_code' => '+1-473',
             ],
             [
                 'name' => [
                     'en' => 'Guatemala',
                     'ar' => 'غواتيمالا',
                 ],
+                'code' => '+502',
                 'iso' => 'GT',
-                'phone_code' => '+502',
             ],
             [
                 'name' => [
                     'en' => 'Guinea',
                     'ar' => 'غينيا',
                 ],
+                'code' => '+224',
                 'iso' => 'GN',
-                'phone_code' => '+224',
             ],
             [
                 'name' => [
                     'en' => 'Guinea-Bissau',
                     'ar' => 'غينيا بيساو',
                 ],
+                'code' => '+245',
                 'iso' => 'GW',
-                'phone_code' => '+245',
             ],
             [
                 'name' => [
                     'en' => 'Guyana',
                     'ar' => 'غيانا',
                 ],
+                'code' => '+592',
                 'iso' => 'GY',
-                'phone_code' => '+592',
             ],
             [
                 'name' => [
                     'en' => 'Haiti',
                     'ar' => 'هايتي',
                 ],
+                'code' => '+509',
                 'iso' => 'HT',
-                'phone_code' => '+509',
             ],
             [
                 'name' => [
                     'en' => 'Honduras',
                     'ar' => 'هندوراس',
                 ],
+                'code' => '+504',
                 'iso' => 'HN',
-                'phone_code' => '+504',
             ],
             [
                 'name' => [
                     'en' => 'Hungary',
                     'ar' => 'المجر',
                 ],
+                'code' => '+36',
                 'iso' => 'HU',
-                'phone_code' => '+36',
             ],
             [
                 'name' => [
                     'en' => 'Iceland',
                     'ar' => 'آيسلندا',
                 ],
+                'code' => '+354',
                 'iso' => 'IS',
-                'phone_code' => '+354',
             ],
             [
                 'name' => [
                     'en' => 'India',
                     'ar' => 'الهند',
                 ],
+                'code' => '+91',
                 'iso' => 'IN',
-                'phone_code' => '+91',
             ],
             [
                 'name' => [
                     'en' => 'Gabon',
                     'ar' => 'الغابون',
                 ],
+                'code' => '+241',
                 'iso' => 'GA',
-                'phone_code' => '+241',
             ],
             [
                 'name' => [
                     'en' => 'Gambia',
                     'ar' => 'غامبيا',
                 ],
+                'code' => '+220',
                 'iso' => 'GM',
-                'phone_code' => '+220',
             ],
             [
                 'name' => [
                     'en' => 'Georgia',
                     'ar' => 'جورجيا',
                 ],
+                'code' => '+995',
                 'iso' => 'GE',
-                'phone_code' => '+995',
             ],
             [
                 'name' => [
                     'en' => 'Germany',
                     'ar' => 'ألمانيا',
                 ],
+                'code' => '+49',
                 'iso' => 'DE',
-                'phone_code' => '+49',
             ],
             [
                 'name' => [
                     'en' => 'Ghana',
                     'ar' => 'غانا',
                 ],
+                'code' => '+233',
                 'iso' => 'GH',
-                'phone_code' => '+233',
             ],
             [
                 'name' => [
                     'en' => 'Greece',
                     'ar' => 'اليونان',
                 ],
+                'code' => '+30',
                 'iso' => 'GR',
-                'phone_code' => '+30',
             ],
             [
                 'name' => [
                     'en' => 'Grenada',
                     'ar' => 'غرينادا',
                 ],
+                'code' => '+1-473',
                 'iso' => 'GD',
-                'phone_code' => '+1-473',
             ],
             [
                 'name' => [
                     'en' => 'Guatemala',
                     'ar' => 'غواتيمالا',
                 ],
+                'code' => '+502',
                 'iso' => 'GT',
-                'phone_code' => '+502',
             ],
             [
                 'name' => [
                     'en' => 'Guinea',
                     'ar' => 'غينيا',
                 ],
+                'code' => '+224',
                 'iso' => 'GN',
-                'phone_code' => '+224',
             ],
             [
                 'name' => [
                     'en' => 'Guinea-Bissau',
                     'ar' => 'غينيا بيساو',
                 ],
+                'code' => '+245',
                 'iso' => 'GW',
-                'phone_code' => '+245',
             ],
             [
                 'name' => [
                     'en' => 'Guyana',
                     'ar' => 'غيانا',
                 ],
+                'code' => '+592',
                 'iso' => 'GY',
-                'phone_code' => '+592',
             ],
             [
                 'name' => [
                     'en' => 'Haiti',
                     'ar' => 'هايتي',
                 ],
+                'code' => '+509',
                 'iso' => 'HT',
-                'phone_code' => '+509',
             ],
             [
                 'name' => [
                     'en' => 'Honduras',
                     'ar' => 'هندوراس',
                 ],
+                'code' => '+504',
                 'iso' => 'HN',
-                'phone_code' => '+504',
             ],
             [
                 'name' => [
                     'en' => 'Hungary',
                     'ar' => 'المجر',
                 ],
+                'code' => '+36',
                 'iso' => 'HU',
-                'phone_code' => '+36',
             ],
             [
                 'name' => [
                     'en' => 'Iceland',
                     'ar' => 'آيسلندا',
                 ],
+                'code' => '+354',
                 'iso' => 'IS',
-                'phone_code' => '+354',
             ],
             [
                 'name' => [
                     'en' => 'India',
                     'ar' => 'الهند',
                 ],
+                'code' => '+91',
                 'iso' => 'IN',
-                'phone_code' => '+91',
             ],
             [
                 'name' => [
                     'en' => 'Indonesia',
                     'ar' => 'إندونيسيا',
                 ],
+                'code' => '+62',
                 'iso' => 'ID',
-                'phone_code' => '+62',
             ],
             [
                 'name' => [
                     'en' => 'Iran',
                     'ar' => 'إيران',
                 ],
+                'code' => '+98',
                 'iso' => 'IR',
-                'phone_code' => '+98',
             ],
             [
                 'name' => [
                     'en' => 'Iraq',
                     'ar' => 'العراق',
                 ],
+                'code' => '+964',
                 'iso' => 'IQ',
-                'phone_code' => '+964',
             ],
             [
                 'name' => [
                     'en' => 'Ireland',
                     'ar' => 'أيرلندا',
                 ],
+                'code' => '+353',
                 'iso' => 'IE',
-                'phone_code' => '+353',
             ],
             [
                 'name' => [
                     'en' => 'Israel',
                     'ar' => 'إسرائيل',
                 ],
+                'code' => '+972',
                 'iso' => 'IL',
-                'phone_code' => '+972',
             ],
             [
                 'name' => [
                     'en' => 'Italy',
                     'ar' => 'إيطاليا',
                 ],
+                'code' => '+39',
                 'iso' => 'IT',
-                'phone_code' => '+39',
             ],
             [
                 'name' => [
                     'en' => 'Jamaica',
                     'ar' => 'جامايكا',
                 ],
+                'code' => '+1-876',
                 'iso' => 'JM',
-                'phone_code' => '+1-876',
             ],
             [
                 'name' => [
                     'en' => 'Japan',
                     'ar' => 'اليابان',
                 ],
+                'code' => '+81',
                 'iso' => 'JP',
-                'phone_code' => '+81',
             ],
             [
                 'name' => [
                     'en' => 'Jordan',
                     'ar' => 'الأردن',
                 ],
+                'code' => '+962',
                 'iso' => 'JO',
-                'phone_code' => '+962',
             ],
             [
                 'name' => [
                     'en' => 'Kazakhstan',
                     'ar' => 'كازاخستان',
                 ],
+                'code' => '+7',
                 'iso' => 'KZ',
-                'phone_code' => '+7',
             ],
             [
                 'name' => [
                     'en' => 'Kenya',
                     'ar' => 'كينيا',
                 ],
+                'code' => '+254',
                 'iso' => 'KE',
-                'phone_code' => '+254',
             ],
             [
                 'name' => [
                     'en' => 'Kiribati',
                     'ar' => 'كيريباتي',
                 ],
+                'code' => '+686',
                 'iso' => 'KI',
-                'phone_code' => '+686',
             ],
             [
                 'name' => [
                     'en' => 'Kuwait',
                     'ar' => 'الكويت',
                 ],
+                'code' => '+965',
                 'iso' => 'KW',
-                'phone_code' => '+965',
             ],
             [
                 'name' => [
                     'en' => 'Kyrgyzstan',
                     'ar' => 'قيرغيزستان',
                 ],
+                'code' => '+996',
                 'iso' => 'KG',
-                'phone_code' => '+996',
             ],
             [
                 'name' => [
                     'en' => 'Laos',
                     'ar' => 'لاوس',
                 ],
+                'code' => '+856',
                 'iso' => 'LA',
-                'phone_code' => '+856',
             ],
             [
                 'name' => [
                     'en' => 'Latvia',
                     'ar' => 'لاتفيا',
                 ],
+                'code' => '+371',
                 'iso' => 'LV',
-                'phone_code' => '+371',
             ],
             [
                 'name' => [
                     'en' => 'Lebanon',
                     'ar' => 'لبنان',
                 ],
+                'code' => '+961',
                 'iso' => 'LB',
-                'phone_code' => '+961',
             ],
             [
                 'name' => [
                     'en' => 'Lesotho',
                     'ar' => 'ليسوتو',
                 ],
+                'code' => '+266',
                 'iso' => 'LS',
-                'phone_code' => '+266',
             ],
             [
                 'name' => [
                     'en' => 'Liberia',
                     'ar' => 'ليبيريا',
                 ],
+                'code' => '+231',
                 'iso' => 'LR',
-                'phone_code' => '+231',
             ],
             [
                 'name' => [
                     'en' => 'Libya',
                     'ar' => 'ليبيا',
                 ],
+                'code' => '+218',
                 'iso' => 'LY',
-                'phone_code' => '+218',
             ],
             [
                 'name' => [
                     'en' => 'Liechtenstein',
                     'ar' => 'ليختنشتاين',
                 ],
+                'code' => '+423',
                 'iso' => 'LI',
-                'phone_code' => '+423',
             ],
             [
                 'name' => [
                     'en' => 'Lithuania',
                     'ar' => 'ليتوانيا',
                 ],
+                'code' => '+370',
                 'iso' => 'LT',
-                'phone_code' => '+370',
             ],
             [
                 'name' => [
                     'en' => 'Luxembourg',
                     'ar' => 'لوكسمبورغ',
                 ],
+                'code' => '+352',
                 'iso' => 'LU',
-                'phone_code' => '+352',
             ],
             [
                 'name' => [
                     'en' => 'Madagascar',
                     'ar' => 'مدغشقر',
                 ],
+                'code' => '+261',
                 'iso' => 'MG',
-                'phone_code' => '+261',
             ],
             [
                 'name' => [
                     'en' => 'Malawi',
                     'ar' => 'مالاوي',
                 ],
+                'code' => '+265',
                 'iso' => 'MW',
-                'phone_code' => '+265',
             ],
             [
                 'name' => [
                     'en' => 'Malaysia',
                     'ar' => 'ماليزيا',
                 ],
+                'code' => '+60',
                 'iso' => 'MY',
-                'phone_code' => '+60',
             ],
             [
                 'name' => [
                     'en' => 'Maldives',
                     'ar' => 'المالديف',
                 ],
+                'code' => '+960',
                 'iso' => 'MV',
-                'phone_code' => '+960',
             ],
             [
                 'name' => [
                     'en' => 'Mali',
                     'ar' => 'مالي',
                 ],
+                'code' => '+223',
                 'iso' => 'ML',
-                'phone_code' => '+223',
             ],
             [
                 'name' => [
                     'en' => 'Malta',
                     'ar' => 'مالطا',
                 ],
+                'code' => '+356',
                 'iso' => 'MT',
-                'phone_code' => '+356',
             ],
             [
                 'name' => [
                     'en' => 'Marshall Islands',
                     'ar' => 'جزر مارشال',
                 ],
+                'code' => '+692',
                 'iso' => 'MH',
-                'phone_code' => '+692',
             ],
             [
                 'name' => [
                     'en' => 'Mauritania',
                     'ar' => 'موريتانيا',
                 ],
+                'code' => '+222',
                 'iso' => 'MR',
-                'phone_code' => '+222',
             ],
             [
                 'name' => [
                     'en' => 'Mauritius',
                     'ar' => 'موريشيوس',
                 ],
+                'code' => '+230',
                 'iso' => 'MU',
-                'phone_code' => '+230',
             ],
             [
                 'name' => [
                     'en' => 'Mexico',
                     'ar' => 'المكسيك',
                 ],
+                'code' => '+52',
                 'iso' => 'MX',
-                'phone_code' => '+52',
             ],
             [
                 'name' => [
                     'en' => 'Micronesia',
                     'ar' => 'ميكرونيسيا',
                 ],
+                'code' => '+691',
                 'iso' => 'FM',
-                'phone_code' => '+691',
             ],
             [
                 'name' => [
                     'en' => 'Moldova',
                     'ar' => 'مولدوفا',
                 ],
+                'code' => '+373',
                 'iso' => 'MD',
-                'phone_code' => '+373',
             ],
             [
                 'name' => [
                     'en' => 'Monaco',
                     'ar' => 'موناكو',
                 ],
+                'code' => '+377',
                 'iso' => 'MC',
-                'phone_code' => '+377',
             ],
             [
                 'name' => [
                     'en' => 'Mongolia',
                     'ar' => 'منغوليا',
                 ],
+                'code' => '+976',
                 'iso' => 'MN',
-                'phone_code' => '+976',
             ],
             [
                 'name' => [
                     'en' => 'Montenegro',
                     'ar' => 'الجبل الأسود',
                 ],
+                'code' => '+382',
                 'iso' => 'ME',
-                'phone_code' => '+382',
             ],
             [
                 'name' => [
                     'en' => 'Morocco',
                     'ar' => 'المغرب',
                 ],
+                'code' => '+212',
                 'iso' => 'MA',
-                'phone_code' => '+212',
             ],
             [
                 'name' => [
                     'en' => 'Mozambique',
                     'ar' => 'موزمبيق',
                 ],
+                'code' => '+258',
                 'iso' => 'MZ',
-                'phone_code' => '+258',
             ],
             [
                 'name' => [
                     'en' => 'Myanmar',
                     'ar' => 'ميانمار',
                 ],
+                'code' => '+95',
                 'iso' => 'MM',
-                'phone_code' => '+95',
             ],
             [
                 'name' => [
                     'en' => 'Namibia',
                     'ar' => 'ناميبيا',
                 ],
+                'code' => '+264',
                 'iso' => 'NA',
-                'phone_code' => '+264',
             ],
             [
                 'name' => [
                     'en' => 'Nauru',
                     'ar' => 'ناورو',
                 ],
+                'code' => '+674',
                 'iso' => 'NR',
-                'phone_code' => '+674',
             ],
             [
                 'name' => [
                     'en' => 'Nepal',
                     'ar' => 'نيبال',
                 ],
+                'code' => '+977',
                 'iso' => 'NP',
-                'phone_code' => '+977',
             ],
             [
                 'name' => [
                     'en' => 'Netherlands',
                     'ar' => 'هولندا',
                 ],
+                'code' => '+31',
                 'iso' => 'NL',
-                'phone_code' => '+31',
             ],
             [
                 'name' => [
                     'en' => 'New Zealand',
                     'ar' => 'نيوزيلندا',
                 ],
+                'code' => '+64',
                 'iso' => 'NZ',
-                'phone_code' => '+64',
             ],
             [
                 'name' => [
                     'en' => 'Nicaragua',
                     'ar' => 'نيكاراغوا',
                 ],
+                'code' => '+505',
                 'iso' => 'NI',
-                'phone_code' => '+505',
             ],
             [
                 'name' => [
                     'en' => 'Niger',
                     'ar' => 'النيجر',
                 ],
+                'code' => '+227',
                 'iso' => 'NE',
-                'phone_code' => '+227',
             ],
             [
                 'name' => [
                     'en' => 'Nigeria',
                     'ar' => 'نيجيريا',
                 ],
+                'code' => '+234',
                 'iso' => 'NG',
-                'phone_code' => '+234',
             ],
             [
                 'name' => [
                     'en' => 'North Korea',
                     'ar' => 'كوريا الشمالية',
                 ],
+                'code' => '+850',
                 'iso' => 'KP',
-                'phone_code' => '+850',
             ],
             [
                 'name' => [
                     'en' => 'North Macedonia',
                     'ar' => 'مقدونيا الشمالية',
                 ],
+                'code' => '+389',
                 'iso' => 'MK',
-                'phone_code' => '+389',
             ],
             [
                 'name' => [
                     'en' => 'Norway',
                     'ar' => 'النرويج',
                 ],
+                'code' => '+47',
                 'iso' => 'NO',
-                'phone_code' => '+47',
             ],
             [
                 'name' => [
                     'en' => 'Oman',
                     'ar' => 'عُمان',
                 ],
+                'code' => '+968',
                 'iso' => 'OM',
-                'phone_code' => '+968',
             ],
             [
                 'name' => [
                     'en' => 'Pakistan',
                     'ar' => 'باكستان',
                 ],
+                'code' => '+92',
                 'iso' => 'PK',
-                'phone_code' => '+92',
             ],
             [
                 'name' => [
                     'en' => 'Palau',
                     'ar' => 'بالاو',
                 ],
+                'code' => '+680',
                 'iso' => 'PW',
-                'phone_code' => '+680',
             ],
             [
                 'name' => [
                     'en' => 'Palestine',
                     'ar' => 'فلسطين',
                 ],
+                'code' => '+970',
                 'iso' => 'PS',
-                'phone_code' => '+970',
             ],
             [
                 'name' => [
                     'en' => 'Panama',
                     'ar' => 'بنما',
                 ],
+                'code' => '+507',
                 'iso' => 'PA',
-                'phone_code' => '+507',
             ],
             [
                 'name' => [
                     'en' => 'Papua New Guinea',
                     'ar' => 'بابوا غينيا الجديدة',
                 ],
+                'code' => '+675',
                 'iso' => 'PG',
-                'phone_code' => '+675',
             ],
             [
                 'name' => [
                     'en' => 'Paraguay',
                     'ar' => 'باراغواي',
                 ],
+                'code' => '+595',
                 'iso' => 'PY',
-                'phone_code' => '+595',
             ],
             [
                 'name' => [
                     'en' => 'Peru',
                     'ar' => 'بيرو',
                 ],
+                'code' => '+51',
                 'iso' => 'PE',
-                'phone_code' => '+51',
             ],
             [
                 'name' => [
                     'en' => 'Philippines',
                     'ar' => 'الفلبين',
                 ],
+                'code' => '+63',
                 'iso' => 'PH',
-                'phone_code' => '+63',
             ],
             [
                 'name' => [
                     'en' => 'Poland',
                     'ar' => 'بولندا',
                 ],
+                'code' => '+48',
                 'iso' => 'PL',
-                'phone_code' => '+48',
             ],
             [
                 'name' => [
                     'en' => 'Portugal',
                     'ar' => 'البرتغال',
                 ],
+                'code' => '+351',
                 'iso' => 'PT',
-                'phone_code' => '+351',
             ],
             [
                 'name' => [
                     'en' => 'Qatar',
                     'ar' => 'قطر',
                 ],
+                'code' => '+974',
                 'iso' => 'QA',
-                'phone_code' => '+974',
             ],
             [
                 'name' => [
                     'en' => 'Romania',
                     'ar' => 'رومانيا',
                 ],
+                'code' => '+40',
                 'iso' => 'RO',
-                'phone_code' => '+40',
             ],
             [
                 'name' => [
                     'en' => 'Russia',
                     'ar' => 'روسيا',
                 ],
+                'code' => '+7',
                 'iso' => 'RU',
-                'phone_code' => '+7',
             ],
             [
                 'name' => [
                     'en' => 'Rwanda',
                     'ar' => 'رواندا',
                 ],
+                'code' => '+250',
                 'iso' => 'RW',
-                'phone_code' => '+250',
             ],
             [
                 'name' => [
                     'en' => 'Saint Kitts and Nevis',
                     'ar' => 'سانت كيتس ونيفيس',
                 ],
+                'code' => '+1-869',
                 'iso' => 'KN',
-                'phone_code' => '+1-869',
             ],
             [
                 'name' => [
                     'en' => 'Saint Lucia',
                     'ar' => 'سانت لوسيا',
                 ],
+                'code' => '+1-758',
                 'iso' => 'LC',
-                'phone_code' => '+1-758',
             ],
             [
                 'name' => [
                     'en' => 'Saint Vincent and the Grenadines',
                     'ar' => 'سانت فنسنت وجزر غرينادين',
                 ],
+                'code' => '+1-784',
                 'iso' => 'VC',
-                'phone_code' => '+1-784',
             ],
             [
                 'name' => [
                     'en' => 'Samoa',
                     'ar' => 'ساموا',
                 ],
+                'code' => '+685',
                 'iso' => 'WS',
-                'phone_code' => '+685',
             ],
             [
                 'name' => [
                     'en' => 'San Marino',
                     'ar' => 'سان مارينو',
                 ],
+                'code' => '+378',
                 'iso' => 'SM',
-                'phone_code' => '+378',
             ],
             [
                 'name' => [
                     'en' => 'Sao Tome and Principe',
                     'ar' => 'ساو تومي وبرينسيب',
                 ],
+                'code' => '+239',
                 'iso' => 'ST',
-                'phone_code' => '+239',
             ],
             [
                 'name' => [
                     'en' => 'Saudi Arabia',
                     'ar' => 'السعودية',
                 ],
+                'code' => '+966',
                 'iso' => 'SA',
-                'phone_code' => '+966',
             ],
             [
                 'name' => [
                     'en' => 'Senegal',
                     'ar' => 'السنغال',
                 ],
+                'code' => '+221',
                 'iso' => 'SN',
-                'phone_code' => '+221',
             ],
             [
                 'name' => [
                     'en' => 'Serbia',
                     'ar' => 'صربيا',
                 ],
+                'code' => '+381',
                 'iso' => 'RS',
-                'phone_code' => '+381',
             ],
             [
                 'name' => [
                     'en' => 'Seychelles',
                     'ar' => 'سيشل',
                 ],
+                'code' => '+248',
                 'iso' => 'SC',
-                'phone_code' => '+248',
             ],
             [
                 'name' => [
                     'en' => 'Sierra Leone',
                     'ar' => 'سيراليون',
                 ],
+                'code' => '+232',
                 'iso' => 'SL',
-                'phone_code' => '+232',
             ],
             [
                 'name' => [
                     'en' => 'Singapore',
                     'ar' => 'سنغافورة',
                 ],
+                'code' => '+65',
                 'iso' => 'SG',
-                'phone_code' => '+65',
             ],
             [
                 'name' => [
                     'en' => 'Suriname',
                     'ar' => 'سورينام'
                 ],
+                'code' => '597',
                 'iso' => 'SR',
-                'phone_code' => '597',
             ],
             [
                 'name' => [
                     'en' => 'Svalbard and Jan Mayen',
                     'ar' => 'سفالبارد ويان ماين'
                 ],
+                'code' => '47',
                 'iso' => 'SJ',
-                'phone_code' => '47',
             ],
             [
                 'name' => [
                     'en' => 'Sweden',
                     'ar' => 'السويد'
                 ],
+                'code' => '46',
                 'iso' => 'SE',
-                'phone_code' => '46',
             ],
             [
                 'name' => [
                     'en' => 'Switzerland',
                     'ar' => 'سويسرا'
                 ],
+                'code' => '41',
                 'iso' => 'CH',
-                'phone_code' => '41',
             ],
             [
                 'name' => [
                     'en' => 'Syrian Arab Republic',
                     'ar' => 'سوريا'
                 ],
+                'code' => '963',
                 'iso' => 'SY',
-                'phone_code' => '963',
             ],
             [
                 'name' => [
                     'en' => 'Taiwan',
                     'ar' => 'تايوان'
                 ],
+                'code' => '886',
                 'iso' => 'TW',
-                'phone_code' => '886',
             ],
             [
                 'name' => [
                     'en' => 'Tajikistan',
                     'ar' => 'طاجيكستان'
                 ],
+                'code' => '992',
                 'iso' => 'TJ',
-                'phone_code' => '992',
             ],
             [
                 'name' => [
                     'en' => 'Tanzania, United Republic of',
                     'ar' => 'تنزانيا'
                 ],
+                'code' => '255',
                 'iso' => 'TZ',
-                'phone_code' => '255',
             ],
             [
                 'name' => [
                     'en' => 'Thailand',
                     'ar' => 'تايلاند'
                 ],
+                'code' => '66',
                 'iso' => 'TH',
-                'phone_code' => '66',
             ],
             [
                 'name' => [
                     'en' => 'Timor-Leste',
                     'ar' => 'تيمور الشرقية'
                 ],
+                'code' => '670',
                 'iso' => 'TL',
-                'phone_code' => '670',
             ],
             [
                 'name' => [
                     'en' => 'Togo',
                     'ar' => 'توغو'
                 ],
+                'code' => '228',
                 'iso' => 'TG',
-                'phone_code' => '228',
             ],
             [
                 'name' => [
                     'en' => 'Tokelau',
                     'ar' => 'توكيلاو'
                 ],
+                'code' => '690',
                 'iso' => 'TK',
-                'phone_code' => '690',
             ],
             [
                 'name' => [
                     'en' => 'Tonga',
                     'ar' => 'تونغا'
                 ],
+                'code' => '676',
                 'iso' => 'TO',
-                'phone_code' => '676',
             ],
             [
                 'name' => [
                     'en' => 'Trinidad and Tobago',
                     'ar' => 'ترينيداد وتوباغو'
                 ],
+                'code' => '1868',
                 'iso' => 'TT',
-                'phone_code' => '1868',
             ],
             [
                 'name' => [
                     'en' => 'Tunisia',
                     'ar' => 'تونس'
                 ],
+                'code' => '216',
                 'iso' => 'TN',
-                'phone_code' => '216',
             ],
             [
                 'name' => [
                     'en' => 'Turkey',
                     'ar' => 'تركيا'
                 ],
+                'code' => '90',
                 'iso' => 'TR',
-                'phone_code' => '90',
             ],
             [
                 'name' => [
                     'en' => 'Turkmenistan',
                     'ar' => 'تركمانستان'
                 ],
+                'code' => '993',
                 'iso' => 'TM',
-                'phone_code' => '993',
             ],
             [
                 'name' => [
                     'en' => 'Turks and Caicos Islands',
                     'ar' => 'جزر تركس وكايكوس'
                 ],
+                'code' => '1649',
                 'iso' => 'TC',
-                'phone_code' => '1649',
             ],
             [
                 'name' => [
                     'en' => 'Tuvalu',
                     'ar' => 'توفالو'
                 ],
+                'code' => '688',
                 'iso' => 'TV',
-                'phone_code' => '688',
             ],
             [
                 'name' => [
                     'en' => 'Uganda',
                     'ar' => 'أوغندا'
                 ],
+                'code' => '256',
                 'iso' => 'UG',
-                'phone_code' => '256',
             ],
             [
                 'name' => [
                     'en' => 'Ukraine',
                     'ar' => 'أوكرانيا'
                 ],
+                'code' => '380',
                 'iso' => 'UA',
-                'phone_code' => '380',
             ],
             [
                 'name' => [
                     'en' => 'United Arab Emirates',
                     'ar' => 'الإمارات العربية المتحدة'
                 ],
+                'code' => '971',
                 'iso' => 'AE',
-                'phone_code' => '971',
             ],
             [
                 'name' => [
                     'en' => 'United Kingdom',
                     'ar' => 'المملكة المتحدة'
                 ],
+                'code' => '44',
                 'iso' => 'GB',
-                'phone_code' => '44',
             ],
             [
                 'name' => [
                     'en' => 'United States',
                     'ar' => 'الولايات المتحدة'
                 ],
+                'code' => '1',
                 'iso' => 'US',
-                'phone_code' => '1',
             ],
             [
                 'name' => [
                     'en' => 'Uruguay',
                     'ar' => 'أوروغواي'
                 ],
+                'code' => '598',
                 'iso' => 'UY',
-                'phone_code' => '598',
             ],
             [
                 'name' => [
                     'en' => 'Uzbekistan',
                     'ar' => 'أوزبكستان'
                 ],
+                'code' => '998',
                 'iso' => 'UZ',
-                'phone_code' => '998',
             ],
             [
                 'name' => [
                     'en' => 'Vanuatu',
                     'ar' => 'فانواتو'
                 ],
+                'code' => '678',
                 'iso' => 'VU',
-                'phone_code' => '678',
             ],
             [
                 'name' => [
                     'en' => 'Venezuela',
                     'ar' => 'فنزويلا'
                 ],
+                'code' => '58',
                 'iso' => 'VE',
-                'phone_code' => '58',
             ],
             [
                 'name' => [
                     'en' => 'Viet Nam',
                     'ar' => 'فيتنام'
                 ],
+                'code' => '84',
                 'iso' => 'VN',
-                'phone_code' => '84',
             ],
             [
                 'name' => [
                     'en' => 'Western Sahara',
                     'ar' => 'الصحراء الغربية'
                 ],
+                'code' => '212',
                 'iso' => 'EH',
-                'phone_code' => '212',
             ],
             [
                 'name' => [
                     'en' => 'Yemen',
                     'ar' => 'اليمن'
                 ],
+                'code' => '967',
                 'iso' => 'YE',
-                'phone_code' => '967',
             ],
             [
                 'name' => [
                     'en' => 'Zambia',
                     'ar' => 'زامبيا'
                 ],
+                'code' => '260',
                 'iso' => 'ZM',
-                'phone_code' => '260',
             ],
             [
                 'name' => [
                     'en' => 'Zimbabwe',
                     'ar' => 'زيمبابوي'
                 ],
+                'code' => '263',
                 'iso' => 'ZW',
-                'phone_code' => '263',
             ],
         ];
 
